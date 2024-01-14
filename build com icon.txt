@@ -1,0 +1,1 @@
+pyinstaller --onefile -w --icon='ms-excel-icon.ico' .\exGO2.1.py
